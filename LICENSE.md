@@ -1,4 +1,4 @@
-# 
+# Automático RAGFlow plugins. Con soporte multimodal y computación en el borde — optimizado para el máximo rendimiento y eficiencia.
 
 
 
